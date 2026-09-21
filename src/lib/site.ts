@@ -16,7 +16,7 @@ export const site = {
     country: "India",
     // Free-text search string used for the embedded map. Edit this if the
     // pin should point somewhere more precise than the lines above.
-    mapQuery: "Block A, Industrial Area, Sector 62, Noida, Uttar Pradesh 201309",
+    mapQuery: "The Corenthum Tower-1,Block A, Industrial Area, Sector 62, Noida, Uttar Pradesh 201309",
   },
   hours: "Mon – Fri · 09:00 to 18:00 IST",
   founded: 2009,
