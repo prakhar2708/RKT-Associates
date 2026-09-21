@@ -6,7 +6,7 @@ export const site = {
     "A practising company secretary firm advising founders, boards and listed entities on incorporation, ROC compliance, corporate governance and secretarial audit.",
   url: "https://rktassociates.in",
   email: "contact@rktassociates.in",
-  phone: "+91 98765 43210",
+  phone: "+91 98765 12345",
   phoneHref: "+919876543210",
   address: {
     line1: "204, Corporate Chambers",
