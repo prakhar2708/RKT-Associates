@@ -1,22 +1,24 @@
 export const site = {
-  name: "RKT & Associates",
+  name: "RKT & ASSOCIATES",
   shortName: "RKT",
   tagline: "Company Secretaries",
   description:
     "A practising company secretary firm advising founders, boards and listed entities on incorporation, ROC compliance, corporate governance and secretarial audit.",
   url: "https://rktassociates.in",
   email: "contact@rktassociates.in",
-  phone: "+91 98765 12345",
-  phoneHref: "+919876543210",
+  phone: "+91 9315520501",
+  phoneHref: "+919315520501",
+  mobile: "+91 9910720936",
+  mobileHref: "+919910720936",
   address: {
-    line1: "204, Corporate Chambers",
-    line2: "Nariman Point, Mumbai 400021",
+    line1: "174A, The Corenthum, 7th Floor, Tower A",
+    line2: "Sector 62, Noida, UP - 201301",
     country: "India",
     // Free-text search string used for the embedded map. Edit this if the
     // pin should point somewhere more precise than the lines above.
-    mapQuery: "204 Corporate Chambers, Nariman Point, Mumbai 400021, India",
+    mapQuery: "Block A, Industrial Area, Sector 62, Noida, Uttar Pradesh 201309",
   },
-  hours: "Mon – Fri · 10:00 to 19:00 IST",
+  hours: "Mon – Fri · 09:00 to 18:00 IST",
   founded: 2009,
 } as const;
 
@@ -29,7 +31,7 @@ export const navLinks = [
 ] as const;
 
 export const stats = [
-  { value: "16+", label: "Years in practice" },
+  { value: "25+", label: "Years in Corporate" },
   { value: "450+", label: "Companies advised" },
   { value: "2,800+", label: "ROC filings completed" },
   { value: "100%", label: "Statutory deadlines met" },

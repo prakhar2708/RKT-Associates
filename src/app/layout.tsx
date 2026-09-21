@@ -53,7 +53,7 @@ const jsonLd = {
   description: site.description,
   url: site.url,
   email: site.email,
-  telephone: site.phone,
+  telephone: [site.phone, site.mobile],
   foundingDate: String(site.founded),
   address: {
     "@type": "PostalAddress",

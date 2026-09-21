@@ -7,6 +7,7 @@ import { site } from "@/lib/site";
 const details = [
   { label: "Email", value: site.email, href: `mailto:${site.email}` },
   { label: "Phone", value: site.phone, href: `tel:${site.phoneHref}` },
+  { label: "Mobile", value: site.mobile, href: `tel:${site.mobileHref}` },
   { label: "Office", value: `${site.address.line1}, ${site.address.line2}` },
   { label: "Hours", value: site.hours },
 ];
