@@ -19,7 +19,7 @@ export const site = {
     // pin should point somewhere more precise than the lines above.
     mapQuery: "The Corenthum Tower-1,Block A, Industrial Area, Sector 62, Noida, Uttar Pradesh 201309",
   },
-  hours: "Mon – Fri · 10:00 to 19:00 IST",
+  hours: "Mon – Fri · 09:00 to 18:00 IST",
   founded: 2026,
   practiceOpened: "8 September 2026",
 } as const;
@@ -205,7 +205,7 @@ export const faqs = [
     a: "Yes. The practice advises on SEBI (LODR) Regulations, 2015, the prohibition of insider trading, the takeover code and ICDR, including structured digital databases. That follows secretarial leadership roles inside NSE- and BSE-listed companies, including JK Paper Ltd.",
   },
   {
-    q: "Does the company need to be in Mumbai?",
-    a: "MCA and SEBI filings are electronic. The company does not have to sit in the same city as the office. Meetings can be held over video unless a physical presence is required.",
+    q: "Does the company need to be in Delhi-NCR?",
+    a: "No. MCA and SEBI filings are electronic. The company does not have to sit in the same city as the office. Meetings can be held over video unless a physical presence is required.",
   },
 ] as const;

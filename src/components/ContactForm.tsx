@@ -135,7 +135,7 @@ export function ContactForm() {
             name="name"
             type="text"
             autoComplete="name"
-            placeholder="Ananya Rao"
+            placeholder="Your Name"
             disabled={busy}
             aria-invalid={Boolean(errors.name)}
             className={`${fieldBase} ${errors.name ? "border-red-400/70" : "border-navy-900/12"}`}
@@ -161,7 +161,7 @@ export function ContactForm() {
             name="phone"
             type="tel"
             autoComplete="tel"
-            placeholder="+91 98765 43210"
+            placeholder="+91 9876543210"
             disabled={busy}
             aria-invalid={Boolean(errors.phone)}
             className={`${fieldBase} ${errors.phone ? "border-red-400/70" : "border-navy-900/12"}`}
@@ -174,7 +174,7 @@ export function ContactForm() {
             name="company"
             type="text"
             autoComplete="organization"
-            placeholder="Acme Technologies Pvt Ltd"
+            placeholder="Your Organisation Pvt Ltd"
             disabled={busy}
             aria-invalid={Boolean(errors.company)}
             className={`${fieldBase} ${errors.company ? "border-red-400/70" : "border-navy-900/12"}`}

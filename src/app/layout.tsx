@@ -61,7 +61,7 @@ const jsonLd = {
   address: {
     "@type": "PostalAddress",
     streetAddress: site.address.line1,
-    addressLocality: "Mumbai",
+    addressLocality: "Delhi-NCR",
     addressCountry: "IN",
   },
   areaServed: "IN",
