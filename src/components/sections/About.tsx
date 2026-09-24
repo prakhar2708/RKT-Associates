@@ -22,7 +22,7 @@ export function About() {
             <Reveal>
               <p>
                 RKT &amp; Associates is the independent practice of {site.principal}, a Fellow Member of the
-                Institute of Company Secretaries of India and a law graduate. It opened on {site.practiceOpened},
+                Institute of Company Secretaries of India and a law graduate. It opened in {site.practiceOpened},
                 after more than 26 years in secretarial, corporate finance and legal roles.
               </p>
             </Reveal>
