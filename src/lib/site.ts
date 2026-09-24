@@ -4,7 +4,7 @@ export const site = {
   principal: "Rajesh Tripathi",
   tagline: "Company Secretary & Corporate Governance Advisor",
   description:
-    "Independent practice of Rajesh Tripathi, FCS and law graduate. Secretarial compliance, board governance, capital raising, SEBI listing work and MCA filings, after 26 years in corporate secretarial roles. The practice opened on 8 September 2026.",
+    "Independent practice of Rajesh Tripathi, FCS and law graduate. Secretarial compliance, board governance, capital raising, SEBI listing work and MCA filings. Built on more than 26 years of corporate experience, RKT & Associates brings seasoned secretarial, governance, corporate finance and legal expertise to businesses.",
   url: "https://rktassociates.in",
   email: "contact@rktassociates.in",
   phone: "+91 9315520501",
@@ -21,7 +21,7 @@ export const site = {
   },
   hours: "Mon – Fri · 09:00 to 18:00 IST",
   founded: 2026,
-  practiceOpened: "8 September 2026",
+  practiceOpened: "2026",
 } as const;
 
 export const navLinks = [
@@ -130,7 +130,7 @@ export const experience = [
   {
     year: "2026",
     title: "RKT & Associates",
-    body: "Independent practice from 8 September 2026, for listed companies and for private family businesses.",
+    body: "Over 26 years of corporate experience, now serving listed companies and private family businesses through RKT & Associates.",
   },
 ] as const;
 
@@ -190,7 +190,7 @@ export const process = [
 export const faqs = [
   {
     q: "Who runs the practice?",
-    a: "Rajesh Tripathi, a Fellow Member of the Institute of Company Secretaries of India (FCS) and a law graduate. He opened RKT & Associates on 8 September 2026 after 26 years in secretarial, corporate finance and legal roles, most recently as General Manager, Secretarial at JK Paper Ltd.",
+    a: "Rajesh Tripathi is a Fellow Member of the Institute of Company Secretaries of India (FCS) and a law graduate, with over 26 years of corporate experience across secretarial, corporate finance and legal functions. Most recently General Manager, Secretarial at JK Paper Ltd., he now brings this experience to businesses through RKT & Associates.",
   },
   {
     q: "What work does the practice take?",

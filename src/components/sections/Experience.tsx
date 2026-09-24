@@ -9,7 +9,7 @@ export function Experience() {
         <SectionHeading
           eyebrow="Experience"
           title="Where the experience comes from."
-          intro="Corporate appointments from 1999, then an independent practice from 8 September 2026."
+          intro="More than 26 years of corporate experience, now brought directly to businesses through RKT & Associates."
         />
 
         <div className="mt-12 grid gap-12 lg:grid-cols-[1fr_1fr] lg:gap-16">
